@@ -2,3 +2,7 @@
 -Belajar Bahasa Kotlin
 -Belajar Bahasa CI dan Laravel
 -Belajar Node JS
+-Belajar Angular JS
+
+Database
+ ^My Sqli
