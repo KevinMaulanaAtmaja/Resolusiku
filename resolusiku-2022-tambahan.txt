@@ -1,3 +1,0 @@
--Belajar Bahasa Java
--Belajar Bahasa Kotlin
-Belajar Bahasa CI dan Laravel
