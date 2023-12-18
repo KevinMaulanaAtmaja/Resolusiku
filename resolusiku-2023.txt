@@ -1,6 +1,6 @@
  Resolusiku 2023-12-17
  1.Mempelajari CSS Grid, CSS Flexbox, CSS Value & Unit, Parallax 
- 2.Belajar bahasa Inggris, Rusia Dan Jepang di Duolingo samapi lancar sampai diakhir tahun ini
+ 2.Belajar bahasa Inggris, Rusia Dan Jepang di Duolingo sampai lancar sampai diakhir tahun ini
  3.Mempelajari bahasa2 Framework (Bootstrap,CodeIgniter, Tailwind, Laravel, AngularJS, React.js, Node.js, Vue.js, Next.JS dll)
  4.Mempelajari API (Application Programming Interface)
  5.Membuat Web atau App atau Apk sederhana
