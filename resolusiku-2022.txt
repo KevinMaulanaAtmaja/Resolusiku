@@ -1,6 +1,6 @@
  Resolusiku 2022-07-01
  1.Mempelajari bahasa Front-End & Back-End (HTML,CSS,PHP dll)
- 2.Belajar bahasa Inggris dan Rusia di Duolingo samapi lancar diakhir tahun ini
+ 2.Belajar bahasa Inggris dan Rusia di Duolingo sampai lancar diakhir tahun ini
  3.Mempelajari bahasa2 Framework (Bootstrap,CodeIgniter,Laravel, AngularJS, React.js, Node.js, Vue.js dll)
  4.Mempelajari bahasa pemprograman utk Web (JavaScript, dll)
  5.Membuat Web atau App atau Apk sederhana
