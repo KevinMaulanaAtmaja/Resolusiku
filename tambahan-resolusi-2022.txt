@@ -1,9 +1,0 @@
--Belajar Bahasa Java
--Belajar Bahasa Kotlin
--Belajar Bahasa CI dan Laravel
--Belajar Node JS
-
--HTML - HTML 5
--CSS - CSS 3
--PHP
--JavaScript
