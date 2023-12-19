@@ -1,5 +1,5 @@
 # Kenyataan Resolusiku di tahun 2023
-____________________________________
+
 ## Hint :pencil: 
 _Pertama kali belajar 28-08-2021_
 
