@@ -1,0 +1,15 @@
+ Resolusiku 2024-01-00
+ 1.Mempelajari React - Redux
+ 2.Belajar bahasa Inggris, Rusia Dan Jepang di Duolingo samapi lancar sampai diakhir tahun ini
+ 3.Mempelajari bahasa2 Framework (Tailwind, Inertia, NextJS dll)
+ 4.Masuk Univ (Poliwangi) dengan jalur SNBP & KIP-K
+ 5.Mempelajari Freelance dan Kehidupan Kampus dll
+ 5.Mempelajari Module bundler (Vite) & Testing App (Vitest / Jest)
+ 6.Mempelajari PWA (Progressive Web App)
+ 7.Membuat Web atau App atau Apk sederhana atau Portfolio
+ 8.Membuat Catatan tentang Tips Programming / Metode Belajar / Tips Lain yg dipelajari di Buku tulis
+ 9.Membuat Web Blog Online utk Web Blogger
+ 10.Mempelajari bahasa2 pemprograman baru seperti Kotlin, Python, Java, C, C++, C#, Markdown, Typescript dll
+ 11.Mempelajari Static Site Generator (Astro, Hugo)
+ 12.Dekstop App(Electron) & GraphQl (Apollo) & Web Security Basic
+ 13.Membuat Portfolio sederhana di akhir tahun 2023 (Okt-Des)
